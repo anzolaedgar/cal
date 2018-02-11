@@ -1,2 +1,2 @@
 # cal
-Gestion de proyectos software con Git yGitHub calculator
+Gestion de proyectos software con Git y GitHub calculator
